@@ -1,35 +1,5 @@
-# Logs
+.DS_Store
 *.log
-
-# Diagnostic reports (https://nodejs.org/api/report.html)
-
-
-
-
-# Dependency directories
 node_modules/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Stores VSCode versions used for testing VSCode extensions
-.vscode-test
+.vscode/
 
